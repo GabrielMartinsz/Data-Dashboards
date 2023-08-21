@@ -6,6 +6,7 @@
 ####  [Dashboard Analítico de Vendas Globais](https://app.powerbi.com/view?r=eyJrIjoiMjM1MTdiNTAtZjIzZS00ZTExLThmYzUtMzdmOGU4NThiNmRmIiwidCI6ImI1YWY2MmNlLWNmMWQtNDBiOC1hZGQwLTY2YWYxOWU0ZDhkMyJ9)
 ####  [Dashboard de Marketing](https://app.powerbi.com/view?r=eyJrIjoiZDBjNWZkMzgtNjk3OS00ODVlLTgyOTAtM2E1Zjk1OWUzYWVjIiwidCI6ImI1YWY2MmNlLWNmMWQtNDBiOC1hZGQwLTY2YWYxOWU0ZDhkMyJ9&pageName=ReportSection)
 ####  [Dashboard de Vendas, Custo, Margem de Lucro e KPI](https://app.powerbi.com/view?r=eyJrIjoiZGZhNjUwY2UtOWFlZC00YmE2LWE1OTktOWIwM2U0MTM2ZTFhIiwidCI6ImI1YWY2MmNlLWNmMWQtNDBiOC1hZGQwLTY2YWYxOWU0ZDhkMyJ9)
+####  [Dashboard Comercial](https://app.powerbi.com/view?r=eyJrIjoiNTJlOGViYzktMzgzMi00MGFhLWE3ZjAtMDI2YjhhY2VhNzEyIiwidCI6ImI1YWY2MmNlLWNmMWQtNDBiOC1hZGQwLTY2YWYxOWU0ZDhkMyJ9&pageName=ReportSection83e10def3fc1174cf4c8)
 
 
 
