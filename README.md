@@ -8,5 +8,6 @@
 ####  [Dashboard de Vendas, Custo, Margem de Lucro e KPI](https://app.powerbi.com/view?r=eyJrIjoiZGZhNjUwY2UtOWFlZC00YmE2LWE1OTktOWIwM2U0MTM2ZTFhIiwidCI6ImI1YWY2MmNlLWNmMWQtNDBiOC1hZGQwLTY2YWYxOWU0ZDhkMyJ9)
 ####  [Dashboard Comercial](https://app.powerbi.com/view?r=eyJrIjoiNTJlOGViYzktMzgzMi00MGFhLWE3ZjAtMDI2YjhhY2VhNzEyIiwidCI6ImI1YWY2MmNlLWNmMWQtNDBiOC1hZGQwLTY2YWYxOWU0ZDhkMyJ9&pageName=ReportSection83e10def3fc1174cf4c8)
 
+####  [Dashboard RH](https://app.powerbi.com/view?r=eyJrIjoiZmUyYTVmMGEtNWE2OS00M2M4LTlhY2MtZWEzYjE0MzJhZTU3IiwidCI6ImI1YWY2MmNlLWNmMWQtNDBiOC1hZGQwLTY2YWYxOWU0ZDhkMyJ9)
 
 
